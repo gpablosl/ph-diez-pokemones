@@ -1,0 +1,24 @@
+body{
+    background-color:#f0f0f0;
+    color: #484848;
+    font-size: 25px;
+}
+
+.name{
+color:#4878c0;
+}
+
+h1{
+    text-align:center;
+    color: #c04848;
+}
+
+.top{
+    float: left;
+    margin: 30px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
