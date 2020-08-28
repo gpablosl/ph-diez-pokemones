@@ -1,24 +1,7 @@
-body{
-    background-color:#f0f0f0;
-    color: #484848;
-    font-size: 25px;
+#pokemon-image{
+    width: 30%;
 }
 
-.name{
-color:#4878c0;
-}
-
-h1{
-    text-align:center;
-    color: #c04848;
-}
-
-.top{
-    float: left;
-    margin: 30px;
-}
-
-img{
-    display: block;
-    margin: 0 auto;
+.pokemonImage{
+    border: solid;
 }
