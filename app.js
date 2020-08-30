@@ -55,7 +55,7 @@ const GetPokemonList = async ()=>{
             currentPokemonImg.onclick = ()=> {
                 sessionStorage.setItem('urlList', JSON.stringify(urlList));
                 sessionStorage.setItem('sprite', currentPokemonImg.src);
-                window.location.href = 'file:///D:/Documentos/programacion-hipermedia/app02-ulsa-2020/pokemon.htm';
+                window.location.href = 'file:///C:/Users/Usuario/Documents/programacion-hipermedia/diez_pokemones/pokemon.htm';
             }
             //console.log(await sprite);
         });
